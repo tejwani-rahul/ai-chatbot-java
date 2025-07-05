@@ -21,15 +21,19 @@ It features secure login and signup functionality, a user-friendly chat interfac
 - **Java SE** — Core Java programming  
 - **Java Swing** — GUI design  
 - **JDBC (MySQL)** — Database connection and operations  
-- **OpenAI GPT API** — AI-powered chatbot responses
+- **OpenAI API** — AI-powered chatbot responses
 
 ---
 
-## 📸 **Screenshots**
+## 📸 **Demo Images**
 
-| Login | Signup | Chat Interface |
-|-------|--------|----------------|
-| ![Login](#) | ![Signup](#) | ![Chat](#) |
+### Login 
+ ![Login](https://github.com/tejwani-rahul/ai-chatbot-java/blob/main/Login.png)
+
+### Signup 
+![Signup](https://github.com/tejwani-rahul/ai-chatbot-java/blob/main/Signup.png)
+### Chat Interface 
+![Chat](https://github.com/tejwani-rahul/ai-chatbot-java/blob/main/Interface.png) 
 
 *(Add screenshots to show your GUI!)*
 
@@ -75,4 +79,5 @@ Sign up for a new account, then log in to start chatting!
 
 ## 📌 Author
 👨‍💻 Rahul Tejwani
+
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/tejwani-rahul)
